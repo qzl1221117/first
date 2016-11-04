@@ -14,8 +14,6 @@ fdfgfg
 
 gg
 
-创建分之
 
-aaaabbb
-nnn
-
+>>>>>>> refs/remotes/origin/master
+nn
