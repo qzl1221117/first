@@ -14,19 +14,5 @@ fdfgfg
 
 gg
 
-创建分之
-
-<<<<<<< HEAD
-
-
-继续执行
-aaaa
-
-
-
-bbbb
-=======
-aaaabbb
-nnn
 
 >>>>>>> refs/remotes/origin/master
